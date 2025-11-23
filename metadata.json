@@ -1,0 +1,5 @@
+{
+  "name": "Luna Store Admin",
+  "description": "A responsive admin dashboard for Luna Store featuring analytics, order management, and filtering.",
+  "requestFramePermissions": []
+}
